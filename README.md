@@ -6,15 +6,15 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
-- Maintainer:
-- Collaborator:
-- Contributor: 
+- Maintainer: David
+- Collaborator: Hyeju
+- Contributor: Jesse
 
 ## Rules
 
-1. 
-2. 
-3. 
+1. All pull requests must have a +1 from collaborator before merging.
+2. Commit messages must be short and concise.
+3. Push one commit at a time
 
 ---
 
